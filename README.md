@@ -8,8 +8,8 @@ In Settings → Pages scegliere Deploy from a branch, branch main, cartella / (r
 Il dominio consulit.eu va collegato solo dopo aver verificato il sito pubblicato e concordato la modifica DNS.
 
 ## Contenuti da completare
-- Recapiti verificati, zona di intervento e dati attività.
+- Zona di intervento e dati attività, se da pubblicare.
 - Nome e foto per Chi sono, se desiderati.
-- Fotografie e descrizioni di progetti realmente eseguiti.
+- Nessuna galleria fotografica: mantenere lo stile illustrato del sito.
 
 Nessun modulo raccoglie dati. Non sono inclusi analytics, cookie applicativi, font remoti o tracciatori.
