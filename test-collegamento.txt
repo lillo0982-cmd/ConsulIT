@@ -1,0 +1,3 @@
+Prova di collegamento GitHub per ConsulIT.
+File di test creato il 16 settembre 2026.
+Questo file non modifica il funzionamento del sito e puo essere eliminato.
